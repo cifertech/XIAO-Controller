@@ -120,9 +120,9 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-CiferTech - [@twitter](https://twitter.com/cifertech1) - CiferTech@gmali.com
+CiferTech - [@twitter](https://twitter.com/cifertech1) - [@instagram](https://www.instagram.com/cifertech/) - CiferTech@gmali.com
 
-Project Link: [https://github.com/cifertech/XIAO-ROBOT](https://github.com/cifertech/XIAO-ROBOT)
+Project Link: [https://github.com/cifertech/XIAO-Controller](https://github.com/cifertech/XIAO-Controller)
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements 
